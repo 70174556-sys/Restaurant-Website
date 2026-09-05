@@ -1,0 +1,14 @@
+# Mairam's Restaurant Website
+
+This project is a simple website built for my Web Lab Task.  
+It includes:
+- Homepage (index.html)
+- Feedback Form (feedback.html)
+- About Page (about.html)
+- Styling (style.css)
+
+## Purpose
+To practice HTML forms, navigation, and basic CSS styling.
+
+## How to View
+Open `index.html` in a browser or visit the GitHub Pages link once published.
